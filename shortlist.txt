@@ -1,0 +1,13 @@
+backward.fill
+battery.100percent
+forward.fill
+magnifyingglass
+microphone.fill
+moon.fill
+play.fill
+speaker.fill
+speaker.wave.3.fill
+sun.max
+sun.min
+switch.2
+wifi
