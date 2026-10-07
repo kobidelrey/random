@@ -1,5 +1,7 @@
+airplay.audio
 backward.fill
 battery.100percent
+camera
 forward.fill
 magnifyingglass
 microphone.fill
