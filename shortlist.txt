@@ -7,6 +7,7 @@ moon.fill
 play.fill
 speaker.fill
 speaker.wave.3.fill
+square.and.arrow.up
 sun.max
 sun.min
 switch.2
