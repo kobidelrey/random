@@ -4,11 +4,14 @@ backward.fill
 battery.100percent
 bluetooth
 camera
+contrast-max
+contrast-min
 forward.fill
 magnifyingglass
 microphone.fill
 moon.fill
 play.fill
+screen-mirroring
 speaker.fill
 speaker.wave.3.fill
 square.and.arrow.up
