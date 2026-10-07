@@ -1,6 +1,8 @@
+airdrop
 airplay.audio
 backward.fill
 battery.100percent
+bluetooth
 camera
 forward.fill
 magnifyingglass
