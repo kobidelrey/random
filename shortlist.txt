@@ -1,5 +1,6 @@
 airdrop
 airplay.audio
+appearance.darkmode
 backward.fill
 battery.100percent
 bluetooth
